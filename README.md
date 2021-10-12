@@ -10,7 +10,7 @@
 4. Ask & answer questions about the data
 
 ## Tools / Languages
-* Jupyter lab
+* Jupyter Notebook
 * `Pandas`
 * `Numpy`
 * `matplotlib.pyplot`
