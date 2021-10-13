@@ -1,4 +1,4 @@
-# Pandas-Portfolio-Project-1_EDA-of-Olympic-Games-Results-for-120-years
+# Python/Pandas-Portfolio-Project-1_EDA-of-Olympic-Games-Results-for-120-years
 ## Project Purpose
 * Analyze, aggregate, and visualize the olympic dataset which contains the results of each Olympic competition for 120 years.
 * Get some insights from those analysis by asking/answering common questions.
